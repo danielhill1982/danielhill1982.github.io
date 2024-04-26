@@ -1,0 +1,17 @@
+<template>
+
+  <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="max-w-2xl text-left mx-auto">
+    <div class="mt-20 mb-20 sm:columns-2 sm:mr-5 sm:pr-5">
+        
+        <p class="text-lg text-gray-800 dark:text-gray-400">Daniel ist 1982 in Suhl geboren. Er ist aufgewachsen, mit Wohnsitz in Altendambach und danach in Ehrenberg. Dies beinhaltete zehn Jahre Schule, mit einem Realschulabschluss 1999 in Thüringen, und einer Berufsausbildung in "Mediendesign" bis hin zum Jahre 2009. Daniel hat einen jüngeren Bruder und eine Nichte. Die Eltern stammen aus Altendambach und Bischofrod in Thüringen. Daniel Hill wird auch gerne "Schwuppi", "Gohang Nadamidai" und "Faultier Slothy" genannt.</p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel ist 179 cm groß, hat dunkle Haare, grüne Augen, Tätowierungen und wiegt 95 Kilogramm. Zu seinen Freizeitaktivitäten zählen sportliche Aktivitäten wie "Schwimmen", "Mountainbike – Crosscountry Cycling" und "Badminton", aber auch "PC-Gaming" wobei meistens Auto-Motorsport gespielt wird. Aber auch Blockbuster wie "Witcher" und "Tomb Raider", sowie Shooter von "Destiny" bis "Far Cry".</p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400 break-after-column">Musikalisch spielt er vorwiegend sehr gerne groovige elektronische Techno-Musik, oder aber hört klassische Retro-Songs, Chill-Out und ein wenig Heimatmusik. In seiner Jugend war er sehr viel mit Freunden auf Party unterwegs und feierte in Clubs innerhalb Deutschlands. Ist nach dieser Zeit aber ledig geworden und bis jetzt auch geblieben. Er hat keine Kinder. Seit 2010 lebt er in Sonneberg, nicht weit von seinen Heimatorten entfernt. Zu seiner Gesundheit kann man nicht viel sagen, es geht ihm gut, er hat z. B. zwei Jahre vegan gelebt und war Nichtraucher, obwohl es nicht immer einfach für ihn war. Er wurde wegen einer angeborenen Verengung seiner Herzkranzgefäße behandelt. Leider hat sich sein Gesundheitszustand nicht vollständig auf 100 % verbessert und liegt derzeit bei 60 % seiner Leistungsfähigkeit.</p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Als gelernter Mediendesigner hat er sich auf Webdesign spezialisiert. Daniel hatte einige Jahre eine Website namens "Minimalistic Design" mittels "Content-Management-System" wie "<a href="https://de.wordpress.org/" class="text-azuro hover:text-purple dark:text-purple dark:hover:text-azuro font-bold duration-500">Wordpress</a>" online verwaltet. Seine Designs sind ausnahmslos minimalistisch und fokussiert auf sehr gute technische Umsetzung. Schnell, stabil und übersichtlich.</p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel verfügt über umfangreiche Kenntnisse in der Erstellung von Websites. Angefangen von "Hyper Text Markup Language" über "Cascading Style Sheets" und "Java-Script". Auch serverseitige Anwendungen wie "PHP" (Hypertext Preprocessor), "MySQL-Datenbank" und "Conten-Management-Systemen". Die Arbeit mit "Frontend-Frameworks" gehört ebenfalls dazu. Er achtet dabei darauf, dass seine Websites "responsive" sind, also angepasst an alle Plattformen wie Smartphones, Tablets und größeren Bildschirmen, sodass der Inhalt für alle einsehbar bleibt. Die Betriebssysteme "Windows" und "Mac OS" sowie "Linux" im Serverbereich zählen von Grund auf dazu und die "<a href="https://www.adobe.com/de/" class="text-azuro hover:text-purple dark:text-purple dark:hover:text-azuro font-bold duration-500">Adobe Creative Cloud</a>" auch.</p>
+
+</div>
+</div>
+</div>
+
+</template>
