@@ -83,7 +83,7 @@
               <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="/privacy_policy/" alt="" title="">Impressum und
                 Datenschutz</NuxtLink>
             </p>
-            <p class="text-gray-500">Copyright © 2024 Daniel Hill Alle Rechte vorbehalten</p>
+            <p class="text-gray-500">Copyright © 2024 Daniel Hill - Alle Rechte vorbehalten</p>
           </div>
 
 
