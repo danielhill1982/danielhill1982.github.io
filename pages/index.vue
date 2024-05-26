@@ -26,13 +26,13 @@
         <!-- End Title -->
 
         <div class="mt-5 max-w-3xl">
-          <p class="text-lg text-gray-600 dark:text-gray-400">Auf dieser, von mir entwickelten Internetseite, findet ihr Informationen zu meiner Person, und mein aktuelles Tagebuch zum kennen lernen.</p>
+          <p class="text-lg text-gray-600 dark:text-gray-400">Auf dieser, von mir entwickelten Internetseite, findet ihr Informationen zu meiner Person.</p>
         </div>
 
         <!-- Buttons -->
         <div class="mt-8 gap-3 flex justify-center">
-          <NuxtLink class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-sky-400 text-white hover:bg-sky-500 disabled:opacity-50 disabled:pointer-events-none duration-500" to="/tagebuch">
-            Zum Tagebuch
+          <NuxtLink class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-semibold rounded-lg border border-transparent bg-sky-400 text-white hover:bg-sky-500 disabled:opacity-50 disabled:pointer-events-none duration-500" to="/info">
+            Zu Info
             <svg class="flex-shrink-0 size-4" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
           </NuxtLink>
         </div>
