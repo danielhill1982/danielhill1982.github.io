@@ -76,10 +76,10 @@
 
 
 
-        <div class="titles dark:bg-white bg-gray-200 p-10">
-          <h2 style="--start-color:#007CF0;--end-color:#00DFD8">Beratung und Konzeption.</h2>
-          <h2 style="--start-color:#7928CA;--end-color:#FF0080">Logo und UI/UX Design.</h2>
-          <h2 style="--start-color:#FF4D4D;--end-color:#F9CB28">Software Entwicklung.</h2>
+        <div class="bg-gradient-to-r from-sky-200 via-sky-400 to-sky-600 p-10">
+          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Beratung und Konzeption.</h2>
+          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Logo und UI/UX Design.</h2>
+          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Software Entwicklung.</h2>
         </div>
 
         <div class="mt-3">
@@ -161,44 +161,4 @@ body {
   font-family: Poppins, sans-serif;
 }
 
-:root {
-  --ttf:
-}
-
-.titles {
-  font-size: 2rem;
-  line-height: 1.3;
-  margin-bottom: 2rem;
-}
-
-.titles h2 {
-  filter: brightness(0);
-  animation: colorCycle 10s var(--ttf) infinite;
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(90deg, var(--start-color), var(--end-color));
-  background-color: gray;
-}
-
-.titles h2:nth-child(2) {
-  animation-delay: 3.33s;
-}
-
-.titles h2:nth-child(3) {
-  animation-delay: 6.66s;
-}
-
-@keyframes colorCycle {
-
-  0%,
-  55% {
-    filter: brightness(0);
-  }
-
-  11%,
-  33% {
-    filter: none;
-  }
-}
 </style>
