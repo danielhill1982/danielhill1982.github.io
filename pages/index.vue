@@ -8,9 +8,7 @@
     <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
       <div class="max-w-2xl text-center mx-auto">
         <p class="block text-lg text-gray-600 dark:text-gray-400">
-          Wilkommen bei <NuxtLink target="_blank" to="https://danielhill1982.github.io" alt="" title="">
-            <span class="text-sky-400">danielhill1982.github.io</span>
-          </NuxtLink>,<br>der persönlichen Website von Daniel Hill.
+          Wilkommen bei <span class="text-sky-400">danielhill1982.github.io</span>,<br>der persönlichen Website von Daniel Hill.
         </p>
 
 

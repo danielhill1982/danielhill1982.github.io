@@ -50,10 +50,6 @@
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">steam</a>
           </li>
-          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="http://paypal.com/paypalme/danielhill1982"
-              class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
-              target="_blank">paypal</a>
-          </li>
         </ul>
 
         <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Websites</h2>
