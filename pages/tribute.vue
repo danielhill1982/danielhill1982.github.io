@@ -1,7 +1,7 @@
 <template>
     <div>
-        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10">
-    <div class="max-w-2xl text-left mx-auto">
+        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
+    <div class="max-w-2xl mx-auto text-center">
         <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Ich benutze verschiedene Technologien und Dienstleister</h2>
     <div
       class="flex gap-8 md:gap-20 items-center justify-center mt-10 flex-wrap"

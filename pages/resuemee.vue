@@ -1,8 +1,8 @@
 <template>
     <div>
-        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
             <div class="max-w-2xl text-left mx-auto">
-                <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Dies ist meine Homepage. Ich hatte seit dem
+                <p class="text-lg text-gray-800 dark:text-gray-400">Dies ist meine Homepage. Ich hatte seit dem
                     Jahre 1999 schon mehrere private Internetseiten veröffentlicht. Jetzt beschränkt es sich auf diese
                     Info-Website.</p>
                 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Diese Internetseite ist entworfen, gestaltet

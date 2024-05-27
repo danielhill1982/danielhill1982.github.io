@@ -2,7 +2,7 @@
 
   <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8">
     <div class="max-w-2xl text-left mx-auto">
-    <div class="mt-20 mb-20 sm:columns-2 sm:mr-5 sm:pr-5">
+    <div class="my-10 sm:columns-2 sm:mr-5 sm:pr-5">
         
         <p class="text-lg text-gray-800 dark:text-gray-400">Daniel ist 1982 in Suhl geboren. Er ist aufgewachsen, mit Wohnsitz in Altendambach und danach in Ehrenberg. Dies beinhaltete zehn Jahre Schule, mit einem Realschulabschluss 1999 in Thüringen, und einer Berufsausbildung in "Mediendesign" bis hin zum Jahre 2009. Daniel hat einen jüngeren Bruder und eine Nichte. Die Eltern stammen aus Altendambach und Bischofrod in Thüringen.</p>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel ist 179 cm groß, hat dunkle Haare, grüne Augen, Tätowierungen und wiegt 95 Kilogramm. Zu seinen Freizeitaktivitäten zählen sportliche Aktivitäten wie "Schwimmen", "Mountainbike – Crosscountry Cycling" und "Badminton", aber auch "PC-Gaming" wobei meistens Auto-Motorsport gespielt wird. Aber auch Blockbuster wie "Witcher" und "Tomb Raider", sowie Shooter von "Destiny" bis "Far Cry".</p>

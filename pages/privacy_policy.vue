@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
     <div class="max-w-2xl text-left mx-auto">
 
         <h1 class="block font-semibold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">

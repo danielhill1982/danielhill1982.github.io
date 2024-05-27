@@ -1,9 +1,9 @@
 <template>
   <div>
 
-    <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
       <div class="max-w-2xl text-left mx-auto">
-        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Meine Website und digitale, visuelle Plattform, mit
+        <p class="text-lg text-gray-800 dark:text-gray-400">Meine Website und digitale, visuelle Plattform, mit
           <span class="text-sky-400">Informationen</span> zu dieser Internetseite, zu meiner <span
             class="text-sky-400">Person</span>, ausgewählte <span class="text-sky-400">Tribute</span> von Technologien
           und Unternehmen, die ich benutze, oder deren Dienstleistungen ich in anspruch nehme.</p>
