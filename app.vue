@@ -144,8 +144,13 @@ useSeoMeta({
     meta: [
       { name: 'title', content: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.' },
       { name: 'description', content: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.' }
+    ],
+
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   })
+
 </script>
 
 <style>
