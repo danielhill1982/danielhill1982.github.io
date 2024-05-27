@@ -30,7 +30,7 @@
           </div>
         </div>
         <div id="navbar-with-collapse"
-          class="hidden transition-all duration-500 overflow-hidden basis-full grow sm:block mt-5">
+          class="hidden transition-all overflow-hidden basis-full grow sm:block mt-5">
           <div>
             <ul class="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
               <li>
