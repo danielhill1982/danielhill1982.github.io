@@ -103,7 +103,11 @@
         <div class="my-10">
           <audio controls class="bg-gray-200 w-full">
             <source src="/Der Dritte Raum - Hale Bopp (Ricardo Villalobos Remix).mp3" type="audio/mpeg">
-            Your browser does not support the audio tag.
+            Dein Browser unterstützt keine Audiowiedergabe.
+          </audio>
+          <audio controls class="bg-gray-200 w-full">
+            <source src="/Röyksopp - Forsaken Cowboy.mp3" type="audio/mpeg">
+            Dein Browser unterstützt keine Audiowiedergabe.
           </audio>
         </div>
 
@@ -119,8 +123,8 @@
 <script setup lang="ts">
 useSeoMeta({
   title: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
-  ogTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
   description: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.',
+  ogTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
   ogDescription: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.',
   ogUrl: 'danielhill1982.github.io',
   ogImage: 'https://repository-images.githubusercontent.com/806210325/885ba239-5bc0-465b-9cd6-e97eacf42ff5',
@@ -128,25 +132,19 @@ useSeoMeta({
   twitterTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
   twitterDescription: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.'
 }),
-
-
-  useHead({
+useHead({
     htmlAttrs: {
       lang: 'de'
     },
-
     bodyAttrs: {
       class: 'antialiased bg-white dark:bg-gray-800'
     },
-
     title: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
-
     meta: [
       { name: 'title', content: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.' },
       { name: 'description', content: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.' }
     ]
   })
-
 </script>
 
 <style>
