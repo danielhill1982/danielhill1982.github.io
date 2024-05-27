@@ -30,35 +30,30 @@
           </div>
         </div>
         <div id="navbar-with-collapse"
-          class="hidden transition-all duration-[0.1ms] overflow-hidden basis-full grow sm:block mt-5">
+          class="hidden transition-all duration-500 overflow-hidden basis-full grow sm:block mt-5">
           <div>
             <ul class="flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-end sm:mt-0 sm:ps-5">
-              <li
-                class="flex-none text-gray-600 duration-500 inline-block relative before:content-[''] before:absolute before:-bottom-1 before:left-0 before:w-0 before:h-0 sm:before:h-1 before:duration-500 before:bg-sky-400 hover:before:w-full before:rounded-full">
+              <li>
                 <NuxtLink active-class="text-sky-400 dark:text-sky-400"
                   class="text-lg text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 duration-500"
                   to="/info/" alt="" title="">Info</NuxtLink>
               </li>
-              <li
-                class="flex-none text-gray-600 duration-500 inline-block relative before:content-[''] before:absolute before:-bottom-1 before:left-0 before:w-0 before:h-0 sm:before:h-1 before:duration-500 before:bg-sky-400 hover:before:w-full before:rounded-full">
+              <li>
                 <NuxtLink active-class="text-sky-400 dark:text-sky-400"
                   class="text-lg text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 duration-500"
                   to="/dienstleistung/" alt="" title="">Dienstleistung</NuxtLink>
               </li>
-              <li
-                class="flex-none text-gray-600 duration-500 inline-block relative before:content-[''] before:absolute before:-bottom-1 before:left-0 before:w-0 before:h-0 sm:before:h-1 before:duration-500 before:bg-sky-400 hover:before:w-full before:rounded-full">
+              <li>
                 <NuxtLink active-class="text-sky-400 dark:text-sky-400"
                   class="text-lg text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 duration-500"
                   to="/biographie/" alt="" title="">Biographie</NuxtLink>
               </li>
-              <li
-                class="flex-none text-gray-600 duration-500 inline-block relative before:content-[''] before:absolute before:-bottom-1 before:left-0 before:w-0 before:h-0 sm:before:h-1 before:duration-500 before:bg-sky-400 hover:before:w-full before:rounded-full">
+              <li>
                 <NuxtLink active-class="text-sky-400 dark:text-sky-400"
                   class="text-lg text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 duration-500"
                   to="/resuemee/" alt="" title="">Resümee</NuxtLink>
               </li>
-              <li
-                class="flex-none text-gray-600 duration-500 inline-block relative before:content-[''] before:absolute before:-bottom-1 before:left-0 before:w-0 before:h-0 sm:before:h-1 before:duration-500 before:bg-sky-400 hover:before:w-full before:rounded-full">
+              <li>
                 <NuxtLink active-class="text-sky-400 dark:text-sky-400"
                   class="text-lg text-gray-600 hover:text-gray-400 dark:text-gray-400 dark:hover:text-gray-500 duration-500"
                   to="/tribute/" alt="" title="">Tribute</NuxtLink>
@@ -111,9 +106,6 @@
           </audio>
         </div>
 
-
-
-
       </div>
 
     </footer>
@@ -132,19 +124,25 @@ useSeoMeta({
   twitterTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
   twitterDescription: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.'
 }),
-useHead({
+
+
+  useHead({
     htmlAttrs: {
       lang: 'de'
     },
+
     bodyAttrs: {
       class: 'antialiased bg-white dark:bg-gray-800'
     },
+
     title: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
+
     meta: [
       { name: 'title', content: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.' },
       { name: 'description', content: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.' }
     ]
   })
+
 </script>
 
 <style>
