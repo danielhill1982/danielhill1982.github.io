@@ -14,9 +14,9 @@
         </p>
 
 
-        <div class="max-w-2xl p-10">
+        <div class="max-w-2xl py-5">
           <h1
-            class="block p-5 border-4 border-gray-600 dark:border-gray-200 border-dashed leading-tight align-text-top text-4xl bg-clip-text bg-gradient-to-r from-sky-400 to-blue-500 text-transparent">
+            class="block p-5 border-4 border-gray-600 dark:border-gray-200 leading-tight align-text-top text-3xl bg-clip-text bg-gradient-to-r from-sky-400 to-blue-500 text-transparent">
             Intuitive Webapplikationen
           </h1>
         </div>

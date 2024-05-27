@@ -82,7 +82,7 @@
           <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Software Entwicklung.</h2>
         </div>
 
-        <div class="mt-3">
+        <div class="mt-10">
           <p class="text-gray-500">
             <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="/privacy_policy/" alt=""
               title="">Impressum und
@@ -92,7 +92,7 @@
         </div>
         <div class="mt-6">
           <input data-hs-theme-switch=""
-            class="relative w-[3.25rem] h-7 mt-1 mr-1 bg-gray-100 checked:bg-none checked:bg-sky-400 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 ring-1 ring-transparent focus:border-slate-700 focus:ring-slate-700 focus:outline-none appearance-none before:inline-block before:size-6 before:bg-white checked:before:bg-blue-200 before:translate-x-0 checked:before:translate-x-full before:shadow before:rounded-full before:transform before:ring-0 before:transition before:ease-in-out before:duration-200 after:absolute after:end-1.5 after:top-[calc(50%-0.40625rem)] after:w-[.8125rem] after:h-[.8125rem] after:bg-no-repeat after:bg-[right_center] after:bg-[length:.8125em_.8125em] after:transform after:transition-all after:ease-in-out after:duration-200 after:opacity-70 checked:after:start-1.5 checked:after:end-auto"
+            class="relative w-[3.25rem] h-7 mt-1 mr-1 bg-gray-800 checked:bg-none checked:bg-sky-400 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 ring-1 ring-transparent focus:border-slate-700 focus:ring-slate-700 focus:outline-none appearance-none before:inline-block before:size-6 before:bg-white checked:before:bg-blue-200 before:translate-x-0 checked:before:translate-x-full before:shadow before:rounded-full before:transform before:ring-0 before:transition before:ease-in-out before:duration-200 after:absolute after:end-1.5 after:top-[calc(50%-0.40625rem)] after:w-[.8125rem] after:h-[.8125rem] after:bg-no-repeat after:bg-[right_center] after:bg-[length:.8125em_.8125em] after:transform after:transition-all after:ease-in-out after:duration-200 after:opacity-70 checked:after:start-1.5 checked:after:end-auto"
             type="checkbox" id="darkSwitch">
         </div>
         <div class="my-10">
