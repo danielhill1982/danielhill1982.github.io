@@ -33,10 +33,6 @@
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">codepen</a>
           </li>
-          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://discord.gg/qSYNdQvrk9"
-              class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
-              target="_blank">discord</a>
-          </li>
           <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://github.com/danielhill1982"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">github</a>
