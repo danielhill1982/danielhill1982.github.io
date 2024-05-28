@@ -12,7 +12,7 @@ Impressum</h1>
 
 <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Kontaktmöglichkeiten</h2>
 
-<p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@tutamail.com" alt="" title="">danielhill@tutamail.com</NuxtLink></p>
+<p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@magenta.de" alt="" title="">danielhill@magenta.de</NuxtLink></p>
 
 <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Haftungs- und Schutzrechtshinweise</h2>
 
@@ -26,7 +26,7 @@ Datenschutzerklärung</h1>
 <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Verantwortlicher</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel Hill<br>Cuno-Hoffmeister-Straße 18<br>96515 Sonneberg / Deutschland</p>
-<p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@tutamail.com" alt="" title="">danielhill@tutamail.com</NuxtLink></p>
+<p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@magenta.de" alt="" title="">danielhill@magenta.de</NuxtLink></p>
 
 <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Übersicht der Verarbeitungen</h2>
 

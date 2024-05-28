@@ -21,7 +21,7 @@
           Cuno-Hoffmeister-Straße 18<br>
           96515 Sonneberg</p>
         <NuxtLink class="font-semibold text-lg text-sky-400 hover:text-sky-500 duration-500"
-          to="mailto:danielhill@tutamail.com" alt="" title="">danielhill@tutamail.com</NuxtLink>
+          to="mailto:danielhill@magenta.de" alt="" title="">danielhill@magenta.de</NuxtLink>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel ist 179 cm groß,<br>hat dunkle Haare,<br>grüne
           Augen,<br>Tätowierungen und<br>wiegt 95 Kilogramm.</p>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Sprachen: Deutsch, Englisch</p>
