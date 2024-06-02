@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
 
-  modules: ["@nuxtjs/tailwindcss", "nuxt-icon", "@nuxt/fonts"],
+  modules: ["@nuxtjs/tailwindcss", "nuxt-icon", "@nuxt/fonts", "@nuxt/image"],
 
   plugins: ["~/plugins/preline.client.ts"],
   
