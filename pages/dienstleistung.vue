@@ -24,3 +24,9 @@
     </div>
 
 </template>
+
+<script>
+definePageMeta({
+   colorMode: 'light'
+ })
+</script>

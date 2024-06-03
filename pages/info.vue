@@ -14,6 +14,9 @@
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Meine Computerkenntnisse vertiefte ich seit 1999 als
           Mediengestalter mit den Schwerpunkten Nonprint-Design und World Wide Web. Durch die Arbeit und den Austausch
           mit Softwareentwicklern habe ich gelernt, wie man Markenwebsites selbstständig implementiert.</p>
+          <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Für Kommentare oder Fragen senden Sie mir
+                    einfach eine E-Mail. Alle öffentlichen Online-Profile von mir finden Sie in meinem Steckbrief auf
+                    dieser Seite.</p>
 
         <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Steckbrief</h2>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">
@@ -26,8 +29,8 @@
           Augen,<br>Tätowierungen und<br>wiegt 95 Kilogramm.</p>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Sprachen: Deutsch, Englisch</p>
 
-        <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Öffentliche
-          Profile</h2>
+        <h3 class="block text-lg font-bold text-gray-800 sm:text-xl md:text-2xl dark:text-white mt-10">Öffentliche
+          Profile</h3>
         <ul class="list-none text-2xl mb-10 mt-3">
           <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://codepen.io/danielhill1982"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
@@ -48,7 +51,7 @@
           </li>
         </ul>
 
-        <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Websites</h2>
+        <h3 class="block text-lg font-bold text-gray-800 sm:text-xl md:text-2xl dark:text-white mt-10">Websites</h3>
         <ul class="list-none text-2xl mb-10 mt-3">
           <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://danielhill1982.github.io/"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""

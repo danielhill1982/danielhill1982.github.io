@@ -17,9 +17,6 @@
                     Internetseite mithilfe von <span class="text-sky-400">GitHub Pages</span>.</p>
                 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Das Design und der Code dieser Website stehen
                     allerdings nicht zum Verkauf oder zur Wiederverwendung zur Verfügung.</p>
-                <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Für Kommentare oder Fragen senden Sie mir
-                    einfach eine E-Mail. Alle öffentlichen Online-Profile von mir finden Sie in meinem Steckbrief auf
-                    dieser Seite.</p>
                 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Ich bin leidenschaftlicher, aber pensionierter
                     Mediengestalter, da es mir gesundheitlich nicht zu 100 % gut geht.</p>
                 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Ich freue mich über Ihre Kommentare, Kritik
