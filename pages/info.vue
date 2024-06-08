@@ -3,20 +3,22 @@
 
     <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
       <div class="max-w-2xl text-left mx-auto">
-        <p class="text-lg text-gray-800 dark:text-gray-400">Meine Website und digitale Plattform, mit
-          <span class="text-sky-400">Informationen</span> zu dieser Internetseite, zu meiner <span
-            class="text-sky-400">Person</span>, ausgewählte <span class="text-sky-400">Tribute</span> von Technologien
-          und Unternehmen, die ich benutze, oder deren Dienstleistungen ich in anspruch nehme.</p>
-        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Ich bin ein Fotoshooter, Geschichtenerzähler,
-          Designschöpfer, Softwareentwickler und Gameplayer, Musikhörer, Fahrradfahrer, Bahnreisender und Wohnungsmieter
-          aus Europa mit Sitz in Deutschland, Thüringen.
+        <p class="text-lg text-gray-800 dark:text-gray-400">
+          Willkommen auf meiner digitalen Plattform und Website, die einen Einblick in meine Welt bietet. Hier finden
+          Sie Informationen über mich, meine Arbeit und meine Leidenschaften. Ich zolle Tribut an Technologien und
+          Unternehmen, die ich nutze und deren Dienstleistungen ich in Anspruch nehme.
         </p>
-        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Meine Computerkenntnisse vertiefte ich seit 1999 als
-          Mediengestalter mit den Schwerpunkten Nonprint-Design und World Wide Web. Durch die Arbeit und den Austausch
-          mit Softwareentwicklern habe ich gelernt, wie man Markenwebsites selbstständig implementiert.</p>
-          <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Für Kommentare oder Fragen senden Sie mir
-                    einfach eine E-Mail. Alle öffentlichen Online-Profile von mir finden Sie in meinem Steckbrief auf
-                    dieser Seite.</p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Als Fotoshooter, Geschichtenerzähler, Designschöpfer,
+          Softwareentwickler, Gameplayer, Musikhörer, Fahrradfahrer, Bahnreisender und Wohnungsmieter aus Europa, mit
+          Sitz in Thüringen, Deutschland, lebe ich ein vielseitiges und erfülltes Leben.
+        </p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Seit 1999 habe ich meine Computerkenntnisse als
+          Mediengestalter mit den Schwerpunkten Nonprint-Design und World Wide Web vertieft. Durch die Zusammenarbeit
+          und den Austausch mit Softwareentwicklern habe ich gelernt, Markenwebsites selbstständig zu implementieren.
+        </p>
+        <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Für Kommentare oder Fragen stehe ich Ihnen gerne zur
+          Verfügung. Senden Sie mir einfach eine E-Mail. Alle meine öffentlichen Online-Profile finden Sie in meinem
+          Steckbrief auf dieser Seite.</p>
 
         <h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Steckbrief</h2>
         <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">

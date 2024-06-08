@@ -8,21 +8,23 @@
     <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
       <div class="max-w-2xl text-center mx-auto">
         <p class="block text-lg text-gray-600 dark:text-gray-400">
-          Wilkommen bei <span class="text-sky-400">danielhill1982.github.io</span>,<br>der persönlichen Website von Daniel Hill.
+          Wilkommen bei <span class="text-sky-400">danielhill1982.github.io</span>,<br>der persönlichen Website von
+          Daniel Hill.
         </p>
 
 
         <div class="max-w-2xl py-5">
           <h1
             class="block p-5 border-4 border-gray-600 dark:border-gray-200 leading-tight align-text-top text-3xl bg-clip-text bg-gradient-to-r from-sky-400 to-blue-500 text-transparent">
-            Intuitive Webapplikationen
+            Intuitive Webapplikationen für die digitale Welt
           </h1>
         </div>
 
 
         <div class="max-w-3xl">
-          <p class="text-lg text-gray-600 dark:text-gray-400">Auf dieser, von mir entwickelten Internetseite, findet ihr
-            Informationen über mein digitales Leben.</p>
+          <p class="text-lg text-gray-600 dark:text-gray-400">Entdecken Sie auf dieser von mir entwickelten Website die
+            Facetten meines digitalen Lebens. Tauchen Sie ein in eine Welt intuitiver Webapplikationen, die ich mit
+            Leidenschaft und Fachwissen gestaltet habe.</p>
         </div>
 
 

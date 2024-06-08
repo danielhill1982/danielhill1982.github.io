@@ -3,36 +3,36 @@
         <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
     <div class="max-w-2xl text-left mx-auto">
 
-        <h1 class="block font-semibold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200">
+        <h1 class="block font-semibold text-gray-800 text-3xl dark:text-gray-200">
 Impressum</h1>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Diensteanbieter</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Diensteanbieter</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel Hill<br> Cuno-Hoffmeister-Straße 18<br> 96515 Sonneberg / Deutschland</p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Kontaktmöglichkeiten</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Kontaktmöglichkeiten</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@magenta.de" alt="" title="">danielhill@magenta.de</NuxtLink></p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Haftungs- und Schutzrechtshinweise</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Haftungs- und Schutzrechtshinweise</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Urheberrechte und Markenrechte: Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteinhaber.</p>
 
-<h1 class="block font-semibold text-gray-800 text-4xl md:text-5xl lg:text-6xl dark:text-gray-200 mt-10">
+<h1 class="block font-semibold text-gray-800 text-3xl dark:text-gray-200 mt-10">
 Datenschutzerklärung</h1>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Stand: 4. Januar 2024</p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Verantwortlicher</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Verantwortlicher</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Daniel Hill<br>Cuno-Hoffmeister-Straße 18<br>96515 Sonneberg / Deutschland</p>
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">E-Mail-Adresse: <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="mailto:danielhill@magenta.de" alt="" title="">danielhill@magenta.de</NuxtLink></p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Übersicht der Verarbeitungen</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Übersicht der Verarbeitungen</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.</p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Arten der verarbeiteten Daten</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Arten der verarbeiteten Daten</h2>
 
 <ul>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">Bestandsdaten.</li>
@@ -42,13 +42,13 @@ Datenschutzerklärung</h1>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">Meta-, Kommunikations- und Verfahrensdaten.</li>
 </ul>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Kategorien betroffener Personen</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Kategorien betroffener Personen</h2>
 
 <ul>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">Nutzer.</li>
 </ul>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Zwecke der Verarbeitung</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Zwecke der Verarbeitung</h2>
 
 <ul>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">Erbringung vertraglicher Leistungen und Erfüllung vertraglicher Pflichten.</li>
@@ -58,7 +58,7 @@ Datenschutzerklärung</h1>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">Informationstechnische Infrastruktur.</li>
 </ul>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Maßgebliche Rechtsgrundlagen</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Maßgebliche Rechtsgrundlagen</h2>
 
 <ul>
 <li class="mt-3 text-lg text-gray-800 dark:text-gray-400">
@@ -79,7 +79,7 @@ Datenschutzerklärung</h1>
 
 
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Sicherheitsmaßnahmen</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Sicherheitsmaßnahmen</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Wir treffen nach Maßgabe der gesetzlichen Vorgaben unter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeiten und des Ausmaßes der Bedrohung der Rechte und Freiheiten natürlicher Personen geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.</p>
 
@@ -87,11 +87,11 @@ Datenschutzerklärung</h1>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">TLS/SSL-Verschlüsselung (https): Um die Daten der Benutzer, die über unsere Online-Dienste übertragen werden, zu schützen, verwenden wir TLS/SSL-Verschlüsselung. Secure Sockets Layer (SSL) ist die Standardtechnologie zur Sicherung von Internetverbindungen durch Verschlüsselung der zwischen einer Website oder App und einem Browser (oder zwischen zwei Servern) übertragenen Daten. Transport Layer Security (TLS) ist eine aktualisierte und sicherere Version von SSL. Hyper Text Transfer Protocol Secure (HTTPS) wird in der URL angezeigt, wenn eine Website durch ein SSL/TLS-Zertifikat gesichert ist.</p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Löschung von Daten</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Löschung von Daten</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z. B. wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind). Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung auf diese Zwecke beschränkt. D. h., die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z. B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen oder deren Speicherung zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person erforderlich ist. Unsere Datenschutzhinweise können ferner weitere Angaben zu der Aufbewahrung und Löschung von Daten beinhalten, die für die jeweiligen Verarbeitungen vorrangig gelten.</p>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Bereitstellung des Onlineangebotes und Webhosting</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Bereitstellung des Onlineangebotes und Webhosting</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Wir verarbeiten die Daten der Nutzer, um ihnen unsere Online-Dienste zur Verfügung stellen zu können. Zu diesem Zweck verarbeiten wir die IP-Adresse des Nutzers, die notwendig ist, um die Inhalte und Funktionen unserer Online-Dienste an den Browser oder das Endgerät der Nutzer zu übermitteln.</p>
 
@@ -109,7 +109,7 @@ Datenschutzerklärung</h1>
     <li class="mt-3 text-lg text-gray-800 dark:text-gray-400"><strong>Erhebung von Zugriffsdaten und Logfiles:</strong> Der Zugriff auf unser Onlineangebot wird in Form von so genannten &quot;Server-Logfiles&quot; protokolliert. Zu den Serverlogfiles können die Adresse und Name der abgerufenen Webseiten und Dateien, Datum und Uhrzeit des Abrufs, übertragene Datenmengen, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite) und im Regelfall IP-Adressen und der anfragende Provider gehören. Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z. B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen; <strong>Rechtsgrundlagen:</strong> Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO. <strong>Löschung von Daten:</strong> Logfile-Informationen werden für die Dauer von maximal 30 Tagen gespeichert und danach gelöscht oder anonymisiert. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.</li>
 </ul>
 
-<h2 class="block text-2xl font-bold text-gray-800 sm:text-3xl md:text-4xl dark:text-white mt-10">Änderung und Aktualisierung der Datenschutzerklärung</h2>
+<h2 class="block text-2xl font-bold text-gray-800 dark:text-white mt-10">Änderung und Aktualisierung der Datenschutzerklärung</h2>
 
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Wir bitten Sie, sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z. B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.</p>
 <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von Unternehmen und Organisationen angeben, bitten wir zu beachten, dass die Adressen sich über die Zeit ändern können und bitten die Angaben vor Kontaktaufnahme zu prüfen.</p>
