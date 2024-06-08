@@ -2,7 +2,7 @@
   <div class="bg-white dark:bg-gray-800">
     <NuxtLoadingIndicator />
     <header
-      class="flex flex-wrap sticky top-4 border-gray-200 border-t-2 backdrop-blur-sm sm:justify-start sm:flex-nowrap w-full bg-white/50 text-sm py-4 dark:bg-gray-800/50 mb-32">
+      class="flex flex-wrap sticky top-4 border-gray-200 border-t-2 backdrop-blur-sm sm:justify-start sm:flex-nowrap w-full bg-white/50 text-sm py-4 dark:bg-gray-800/50 mb-32 z-50">
       <nav class="max-w-[60rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
         <div class="flex items-center justify-between">
           <NuxtLink active-class="text-sky-400 dark:text-sky-400"
