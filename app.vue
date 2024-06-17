@@ -74,12 +74,12 @@
 
       <div class="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto text-center">
 
-
-
-        <div class="bg-gradient-to-r from-sky-200 via-sky-400 to-sky-600 p-10">
-          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Beratung und Konzeption.</h2>
-          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Logo und UI/UX Design.</h2>
-          <h2 class="block font-bold p-2 text-2xl bg-clip-text text-white">Software Entwicklung.</h2>
+        <div class="bg-gray-200 p-10">
+          <div class="words max-w-96 mx-auto">
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#0D00FA;--end-color:#00BEFF">Beratung und Konzeption.</h2>
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#7928CA;--end-color:#FF0080">Logo und UI/UX Design.</h2>
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#FF4D4D;--end-color:#F9CB28">Software Entwicklung.</h2>
+          </div>
         </div>
 
         <div class="mt-10">
@@ -95,7 +95,7 @@
             class="relative w-[3.25rem] h-7 mt-1 mr-1 bg-gray-800 checked:bg-none checked:bg-sky-400 border-2 border-transparent rounded-full cursor-pointer transition-colors ease-in-out duration-200 ring-1 ring-transparent focus:border-slate-700 focus:ring-slate-700 focus:outline-none appearance-none before:inline-block before:size-6 before:bg-white checked:before:bg-blue-200 before:translate-x-0 checked:before:translate-x-full before:shadow before:rounded-full before:transform before:ring-0 before:transition before:ease-in-out before:duration-200 after:absolute after:end-1.5 after:top-[calc(50%-0.40625rem)] after:w-[.8125rem] after:h-[.8125rem] after:bg-no-repeat after:bg-[right_center] after:bg-[length:.8125em_.8125em] after:transform after:transition-all after:ease-in-out after:duration-200 after:opacity-70 checked:after:start-1.5 checked:after:end-auto"
             type="checkbox" id="darkSwitch">
         </div>
-       
+
       </div>
 
     </footer>
@@ -148,6 +148,34 @@ useSeoMeta({
 }
 
 body {
-  font-family: Poppins, sans-serif;
+  font-family: Poppins;
+}
+
+.words h2 {
+  --ttf: cubic-bezier(0.4, 0, 0.2, 1);
+  filter: brightness(0);
+	animation: colorCycle 10s var(--ttf) infinite;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-image: linear-gradient(90deg, var(--start-color), var(--end-color));
+}
+
+.words h2:nth-child(1) {
+	animation-delay: 3.33s;
+}
+.words h2:nth-child(2) {
+	animation-delay: 6.66s;
+}
+
+@keyframes colorCycle {
+	0%,
+	55% {
+		filter: brightness(0);
+	}
+	11%,
+	33% {
+		filter: none;
+	}
 }
 </style>
