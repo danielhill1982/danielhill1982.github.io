@@ -105,15 +105,15 @@
 <script setup lang="ts">
 useSeoMeta({
   title: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
-  description: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!',
+  description: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!',
   ogType: 'website',
   ogTitle: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
-  ogDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!',
+  ogDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!',
   ogUrl: 'danielhill1982.github.io',
   ogImage: 'https://repository-images.githubusercontent.com/806210325/885ba239-5bc0-465b-9cd6-e97eacf42ff5',
   twitterCard: 'summary',
   twitterTitle: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
-  twitterDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!'
+  twitterDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!'
 }),
 
   useHead({
@@ -129,7 +129,7 @@ useSeoMeta({
 
     meta: [
       { name: 'title', content: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen' },
-      { name: 'description', content: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!' }
+      { name: 'description', content: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!' }
     ]
   })
 
