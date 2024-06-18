@@ -104,17 +104,17 @@
 
 <script setup lang="ts">
 useSeoMeta({
-  title: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
-  description: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.',
-  ogTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
-  ogDescription: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.',
+  title: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
+  description: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!',
+  ogType: 'website',
+  ogTitle: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
+  ogDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!',
   ogUrl: 'danielhill1982.github.io',
   ogImage: 'https://repository-images.githubusercontent.com/806210325/885ba239-5bc0-465b-9cd6-e97eacf42ff5',
   twitterCard: 'summary',
-  twitterTitle: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
-  twitterDescription: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.'
+  twitterTitle: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
+  twitterDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!'
 }),
-
 
   useHead({
     htmlAttrs: {
@@ -125,11 +125,11 @@ useSeoMeta({
       class: 'antialiased bg-white dark:bg-gray-800'
     },
 
-    title: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.',
+    title: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
 
     meta: [
-      { name: 'title', content: 'Website von Daniel Hill - Gestaltung von Lösungen: Beratung, Logos, UI/UX, Softwareentwicklung.' },
-      { name: 'description', content: 'Entdecken Sie die Welt der Designlösungen von Daniel Hill. Ich biete Beratung, Logogestaltung, UI/UX-Design und Softwareentwicklung, maßgeschneidert für Ihre Bedürfnisse. Besuchen Sie meine Seite, um zu sehen, wie ich Ihre Ideen in die Realität umsetzen kann.' }
+      { name: 'title', content: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen' },
+      { name: 'description', content: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Wir setzen Ihre Visionen um und übertreffen Erwartungen. Kontaktieren Sie uns!' }
     ]
   })
 
