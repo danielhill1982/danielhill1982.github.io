@@ -28,7 +28,7 @@
         </div>
 
 
-        <div class="mt-6 mb-60 gap-3 flex justify-center">
+        <div class="mt-6 mb-10 gap-3 flex justify-center">
           <NuxtLink title="" alt=""
             class="bg-gradient-to-r from-sky-400 to-blue-500 hover:from-sky-500 hover:to-blue-600 py-3 px-4 inline-flex items-center gap-x-2 text-lg rounded-lg text-white"
             to="/info">
