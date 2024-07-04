@@ -42,7 +42,7 @@
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">github</a>
           </li>
-          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://gog.com/u/schwuppi1982"
+          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://gog.com/u/danielhill1982"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title="" target="_blank">good
               old games</a>
           </li>
