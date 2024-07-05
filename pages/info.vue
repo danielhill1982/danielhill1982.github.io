@@ -47,7 +47,7 @@
               old games</a>
           </li>
           <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a
-              href="https://steamcommunity.com/id/danielhill1982/"
+              href="https://steamcommunity.com/id/danielhill1982"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">steam</a>
           </li>
@@ -55,13 +55,17 @@
 
         <h3 class="block text-lg font-bold text-gray-800 sm:text-xl md:text-2xl dark:text-white mt-10">Websites</h3>
         <ul class="list-none text-2xl mb-10 mt-3">
-          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://danielhill1982.github.io/"
+          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://danielhill1982.github.io"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">danielhill1982.github.io</a>
           </li>
           <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://danielhill.vercel.app"
               class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
               target="_blank">danielhill.vercel.app</a>
+          <li class="pb-3 text-lg text-gray-800 dark:text-gray-400"><a href="https://danielhill.framer.website"
+              class="font-semibold text-sky-400 hover:text-sky-500 duration-500" alt="" title=""
+              target="_blank">danielhill.framer.website</a>
+          </li>
           </li>
         </ul>
       </div>
