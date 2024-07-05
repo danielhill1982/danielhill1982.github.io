@@ -2,7 +2,7 @@
   <div>
 
     <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 my-10">
-      <div class="max-w-2xl text-left mx-auto">
+      <div class="max-w-2xl text-left mx-auto sm:columns-2">
         <p class="text-lg text-gray-800 dark:text-gray-400">
           Willkommen auf meiner digitalen Plattform und Website, die einen Einblick in meine Welt bietet. Hier finden
           Sie Informationen über mich, meine Arbeit und meine Leidenschaften. Ich zolle Tribut an Technologien und
