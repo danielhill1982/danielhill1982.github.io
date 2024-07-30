@@ -1,8 +1,7 @@
 <template>
   <div class="bg-white dark:bg-gray-800">
     <NuxtLoadingIndicator />
-    <header
-      class="flex flex-wrap sticky top-4 border-gray-200 border-t-2 backdrop-blur-sm sm:justify-start sm:flex-nowrap w-full bg-white/50 text-sm py-4 dark:bg-gray-800/50 mb-32 z-50">
+    <header class="flex flex-wrap sticky top-4 border-gray-200 border-t-2 backdrop-blur-sm sm:justify-start sm:flex-nowrap w-full bg-white/50 text-sm py-4 dark:bg-gray-800/50 mb-32 z-50">
       <div class="progress-bar"></div>
       <nav class="max-w-[60rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
         <div class="flex items-center justify-between">
@@ -166,7 +165,6 @@ body {
   transform: scaleX(0);
   transform-origin: 0%;
 }
-
 
 .words h2 {
   --ttf: cubic-bezier(0.4, 0, 0.2, 1);
