@@ -76,9 +76,9 @@
 
         <div class="bg-gray-200 p-10">
           <div class="words max-w-96 mx-auto">
-            <h2 class="font-bold p-2 text-2xl" style="--start-color:#0D00FA;--end-color:#00BEFF">Beratung und Konzeption.</h2>
-            <h2 class="font-bold p-2 text-2xl" style="--start-color:#7928CA;--end-color:#FF0080">Logo und UI/UX Design.</h2>
-            <h2 class="font-bold p-2 text-2xl" style="--start-color:#FF4D4D;--end-color:#F9CB28">Software Entwicklung.</h2>
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#0D00FA;--end-color:#00BEFF">Beratung und Konzeption</h2>
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#7928CA;--end-color:#FF0080">Logo und UI/UX Design</h2>
+            <h2 class="font-bold p-2 text-2xl" style="--start-color:#FF4D4D;--end-color:#F9CB28">Software Entwicklung</h2>
           </div>
         </div>
 
