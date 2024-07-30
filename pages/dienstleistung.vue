@@ -68,16 +68,6 @@
             <p class="mt-24 text-lg text-gray-800 dark:text-gray-400">Mein oberstes Ziel ist es, innovative Lösungen zu liefern, die nicht nur Ihren Anforderungen gerecht werden, sondern auch Ihre Erwartungen übertreffen. Ich freue mich darauf, mit Ihnen zusammenzuarbeiten und Ihre Vision zum Leben zu erwecken!</p>
         </div>
 
-        <div class="max-w-2xl text-left mx-auto">
-            <hr class="mt-12 border-4 border-gray-600 dark:border-gray-200 w-56">
-            <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">
-                
-                <NuxtLink class="font-semibold text-sky-400 hover:text-sky-500 duration-500" to="https://danielhill1982.github.io/greensock/" alt="" title="" target="_blank">GSAP Snippets</NuxtLink></p>
-                <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Unter dem angegebenen Link finden Sie eine Auswahl an Beispielen für GSAP (GreenSock Animation Platform), die als Ausgangspunkt für komplexe Animationen dienen können. GSAP ist eine äußerst leistungsfähige und ressourceneffiziente JavaScript-Animationsbibliothek, die von Profis bevorzugt wird.
-                </p>
-            
-        </div>
-
     </div>
 </div>
 </template>
