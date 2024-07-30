@@ -3,6 +3,7 @@
     <NuxtLoadingIndicator />
     <header
       class="flex flex-wrap sticky top-4 border-gray-200 border-t-2 backdrop-blur-sm sm:justify-start sm:flex-nowrap w-full bg-white/50 text-sm py-4 dark:bg-gray-800/50 mb-32 z-50">
+      <div class="progress-bar"></div>
       <nav class="max-w-[60rem] w-full mx-auto px-4 sm:flex sm:items-center sm:justify-between" aria-label="Global">
         <div class="flex items-center justify-between">
           <NuxtLink active-class="text-sky-400 dark:text-sky-400"
@@ -67,9 +68,9 @@
     </header>
 
     <main>
-
       <NuxtPage />
     </main>
+    
     <footer>
 
       <div class="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto text-center">
@@ -114,25 +115,29 @@ useSeoMeta({
   twitterCard: 'summary',
   twitterTitle: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
   twitterDescription: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!'
-}),
+});
 
-  useHead({
-    htmlAttrs: {
-      lang: 'de'
-    },
+useHead({
+  htmlAttrs: {
+    lang: 'de'
+  },
 
-    bodyAttrs: {
-      class: 'antialiased bg-white dark:bg-gray-800'
-    },
+  bodyAttrs: {
+    class: 'antialiased bg-white dark:bg-gray-800'
+  },
 
-    title: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
+  title: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen',
 
-    meta: [
-      { name: 'title', content: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen' },
-      { name: 'description', content: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!' }
-    ]
-  })
+  meta: [
+    { name: 'title', content: 'Passionierter Designer und Entwickler | Maßgeschneiderte Lösungen' },
+    { name: 'description', content: 'Ihr One-Stop-Shop für Design, Entwicklung und Beratung. Ich setze Ihre Visionen um und übertreffe Ihre Erwartungen. Kontaktieren Sie mich!' }
+  ]
+});
 
+import { animate, scroll } from "motion";
+onMounted(() => {
+  scroll(animate(".progress-bar", { scaleX: [0, 1] }));
+});
 </script>
 
 <style>
@@ -150,6 +155,18 @@ useSeoMeta({
 body {
   font-family: Poppins;
 }
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background: #38bdf8;
+  transform: scaleX(0);
+  transform-origin: 0%;
+}
+
 
 .words h2 {
   --ttf: cubic-bezier(0.4, 0, 0.2, 1);

@@ -13,6 +13,7 @@
     "@nuxt/fonts": "^0.7.0",
     "@nuxt/image": "^1.7.0",
     "@nuxtjs/tailwindcss": "^6.11.4",
+    "motion": "^10.18.0",
     "nuxt": "^3.11.2",
     "nuxt-icon": "^0.6.10",
     "preline": "^2.1.0",
