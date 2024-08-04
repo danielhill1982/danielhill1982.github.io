@@ -1,22 +1,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
 <url>
-<loc>https://danielhill.vercel.app</loc>
+<loc>https://danielhill1982.github.io</loc>
 </url>
 <url>
-<loc>https://danielhill.vercel.app/about/</loc>
+<loc>https://danielhill1982.github.io/about/</loc>
 </url>
 <url>
-<loc>https://danielhill.vercel.app/service/</loc>
+<loc>https://danielhill1982.github.io/service/</loc>
 </url>
 <url>
-<loc>https://danielhill.vercel.app/biography/</loc>
+<loc>https://danielhill1982.github.io/biography/</loc>
 </url>
 <url>
-<loc>https://danielhill.vercel.app/resume/</loc>
+<loc>https://danielhill1982.github.io/resume/</loc>
 </url>
 <url>
-<loc>https://danielhill.vercel.app/privacy_policy/</loc>
+<loc>https://danielhill1982.github.io/tribute/</loc>
+</url>
+<url>
+<loc>https://danielhill1982.github.io/privacy_policy/</loc>
 </url>
 
 </urlset>
